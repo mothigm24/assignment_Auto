@@ -1,0 +1,12 @@
+Advantages of Java:
+
+Simple – Java has easy syntax and is easier to learn than C and C++. It does not use complex features like pointers and operator overloading.
+Secure – Java reduces security risks by avoiding pointers and includes a Security Manager to protect programs.
+Platform Independent – Java programs can run on any operating system that has the Java Virtual Machine (JVM). ("Write Once, Run Anywhere")
+Object-Oriented – Java uses objects and classes, making programs easier to develop, reuse, and maintain.
+Robust – Java has strong error handling and automatic memory management, making programs more reliable.
+Multithreading – Java can run multiple tasks at the same time, improving performance.
+Portable – Java programs can be moved and run on different devices without changing the code.
+High Performance – Java provides good performance with the help of the Just-In-Time (JIT) compiler.
+Distributed – Java supports network programming, making it suitable for distributed applications.
+Dynamic – Java can load classes and libraries while the program is running, making it flexible.
