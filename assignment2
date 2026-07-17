@@ -1,0 +1,10 @@
+public class Main {
+    public static void main(String[] args) {
+        int num = 100;
+        float decimal = 70.25f;
+        char letter = 'M';
+        String word = "Great";
+
+        System.out.println(letter + " " + word + " " + num + " " + decimal);
+    }
+}
