@@ -1,0 +1,16 @@
+Scanner input = new Scanner(System.in);
+
+System.out.println("Enter student name: ");
+String name = input.nextLine();
+
+System.out.println("Enter subject name: ");
+String subject = input.nextLine();
+
+System.out.println("Enter mark: ");
+int mark = input.nextInt();
+
+System.out.println("Student name is: " + name);
+System.out.println("Subject name is: " + subject);
+System.out.println("Mark is: " + mark);
+
+input.close();
