@@ -1,0 +1,39 @@
+import java.util.Scanner;
+
+public class StudentGrade {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter student mark: ");
+        int mark = sc.nextInt();
+
+        if (mark > 80) {
+            System.out.println("Excellent");
+        } else if (mark >= 61 && mark <= 80) {
+            System.out.println("Good");
+        } else if (mark >= 50 && mark <= 60) {
+            System.out.println("Average");
+        } else {
+            System.out.println("Below Average");
+        }
+
+        sc.close();
+    }
+}
+
+
+
+
+
+2. public class EvenNumbers {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 20; i++) {
+            if (i % 2 == 0) {
+                System.out.println(i);
+            }
+        }
+    }
+}
+
+
+
+
